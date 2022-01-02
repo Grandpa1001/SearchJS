@@ -1,3 +1,3 @@
 # SearchJS
 Wyszukiwarka JS
-Prosta wyszukiwarka JS do ułatwienia bydowy kontrolek do przeszukiwania li
+Przeszukaj listę wpisując wartości w Inpucie.
